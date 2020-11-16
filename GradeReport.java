@@ -20,7 +20,7 @@ public class GradeReport {
     }
 
     //explains input formatting
-    public void formatting() throws InterruptedException{
+    public void formatting(){
         System.out.println("Input Formatting:");
         System.out.println("Grades should be entered in order of assignment number. \nExample  L1 L2 L3 L4 etc.");
         System.out.println("Once you have entered all available grades for the assignment category, enter a -1 to move to the next category");
