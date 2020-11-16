@@ -8,7 +8,7 @@ Student 4: Test case where a student gets full points for all assignments. Stude
 ## Implementation
 For this program, user input is taken from the command line. The user is first prompted to enter a student ID, and is then prompted to enter the assignment grades
 for each assignment category. The four categories used are Practice Problems, Labs, Midterms, and a Final exam. The sum of the grades for each category is stored in a 
-HashMap with the assignment category as the key and the grade as a double for the element. The sum is stored as an array since midterm 1 had the possibility for half points, so
+HashMap with the assignment category as the key and the grade as a double for the element. The sum is stored as a double since midterm 1 had the possibility for half points, so
 a double was used for all grades. I also chose to store the sum of each category instead of each individual assignment grade to simplify the grade calculations. If the grades were
 stored with the same key but with an array, stack, or queue as the element we would have to find the sum anytime we retrieve the element from the map. To indicate that all grades for 
 a category were entered a -1 should be entered after the last grade. This resolved some bugs I faced when trying to limit the input by number of assignments in each category. Doing
