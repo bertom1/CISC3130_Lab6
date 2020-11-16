@@ -1,0 +1,44 @@
+Grade report for: 8757
+Practice problem grades: 32.0 out of 44		Possible Points Remaining: 12
+Lab grades: 10.0 out of 16		Possible Points Remaining: 6
+midterm grades: 17.5 out of 20		Possible Points Remaining: 0
+final exam grade: 0.0 out of 20		Possible Points Remaining: 20
+Current Grade: 59.5		Grade as Letter: F
+Points needed for an A: 30.5
+Points needed for an B: 20.5
+Points needed for an C: 10.5
+Points needed for an D: 0.5
+
+Grade report for: 0
+Practice problem grades: 0.0 out of 44		Possible Points Remaining: 0
+Lab grades: 0.0 out of 16		Possible Points Remaining: 0
+midterm grades: 0.0 out of 20		Possible Points Remaining: 0
+final exam grade: 0.0 out of 20		Possible Points Remaining: 0
+Current Grade: 0.0		Grade as Letter: F
+Points needed for an A: 90.0
+Points needed for an B: 80.0
+Points needed for an C: 70.0
+Points needed for an D: 60.0
+
+Grade report for: 1
+Practice problem grades: 0.0 out of 44		Possible Points Remaining: 44
+Lab grades: 0.0 out of 16		Possible Points Remaining: 16
+midterm grades: 0.0 out of 20		Possible Points Remaining: 20
+final exam grade: 0.0 out of 20		Possible Points Remaining: 20
+Current Grade: 0.0		Grade as Letter: F
+Points needed for an A: 90.0
+Points needed for an B: 80.0
+Points needed for an C: 70.0
+Points needed for an D: 60.0
+
+Grade report for: 1234
+Practice problem grades: 44.0 out of 44		Possible Points Remaining: 0
+Lab grades: 16.0 out of 16		Possible Points Remaining: 0
+midterm grades: 20.0 out of 20		Possible Points Remaining: 0
+final exam grade: 20.0 out of 20		Possible Points Remaining: 0
+Current Grade: 100.0		Grade as Letter: A
+Points needed for an A: Grade is met
+Points needed for an B: Grade is met
+Points needed for an C: Grade is met
+Points needed for an D: Grade is met
+
