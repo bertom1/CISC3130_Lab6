@@ -3,7 +3,7 @@ Java program written to calculate student grades based on class syllabus. Main.j
 the source code for the object used to store the grades. A sample output is included titled "gradeReport.txt" and includes four students  
 Student 1: My grades as reported in the class spreadsheet. Student ID is 8757 (last 4 digits of my EMPLID.)  
 Student 2: Test case where a student did not complete any assignments, 0 is entered for each assignment. Student ID is 0.  
-Student 3: Test case where no grades are available (e.g start of the semester.) No grade is entered for all assignments. Student ID is 1.  
+Student 3: Test case where no grades are available (e.g start of the semester.) No grade is entered for all categories. Student ID is 1.  
 Student 4: Test case where a student gets full points for all assignments. Student ID is 1234.
 ## Implementation
 For this program, user input is taken from the command line. The user is first prompted to enter a student ID, and is then prompted to enter the assignment grades
