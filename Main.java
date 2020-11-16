@@ -10,15 +10,15 @@ public class Main {
         PrintWriter output = new PrintWriter(new File("gradeReport.txt"));
         while (studentId >= 0) {
             try{
-            GradeReport report = new GradeReport(studentId);
-            report.formatting();
-            report.addPracticeProblems(scan);
-            report.addlabs(scan);
-            report.addMidterms(scan);
-            report.addFinal(scan);
-            report.writeGradeReport(output);
-            System.out.println("Please enter a student id. To exit, enter -1");
-            studentId = scan.nextInt();
+                GradeReport report = new GradeReport(studentId);
+                report.formatting();
+                report.addPracticeProblems(scan);
+                report.addlabs(scan);
+                report.addMidterms(scan);
+                report.addFinal(scan);
+                report.writeGradeReport(output);
+                System.out.println("Please enter a student id. To exit, enter -1");
+                studentId = scan.nextInt();
             }
             catch (Exception e) {
                 System.out.println(e.getMessage());
